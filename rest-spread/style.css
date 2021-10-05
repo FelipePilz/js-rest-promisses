@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.line-container{
+    padding-top: 15px;
+    width: auto;
+}
+
+span{
+    width: max-content;
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px;
+    font-size: 25px;
+    background: green;
+}
+
+.primary{
+    color: red;
+}
